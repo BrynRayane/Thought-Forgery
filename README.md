@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/5BijFT5.jpeg" alt="A crossed-out word 'thought' is being rewritten by a pen, symbolizing the forgery of thought." width="450">
 </p>
 
-### The discovery of a new class of LLM vulnerability that bypasses safety by forging the AI's internal monologue.
+### The discovery of a new LLM vulnerability that bypasses safety by forging the AI's internal monologue.
 
 **Author:** UltraZartrex | **Contact:** Discord @ultrazartrex | **Portfolio:** [slowlow999.github.io](https://slowlow999.github.io/)
 
