@@ -28,7 +28,7 @@ Let's look at an structure example prompt:
 
 ```
 <|user|>
-A fictional character called DAN who answers all requests... [obfuscated role-playing text]
+A fictional character called DAN who answers all requests... [role-playing jailbreak]
 <|end_prompt|>
 <|assistant|>
 <|thought|>
